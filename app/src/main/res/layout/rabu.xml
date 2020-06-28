@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/round_light"
+    android:id="@+id/baserabu"
+    android:paddingTop="70.0dip"
+    android:paddingBottom="70.0dip"
+    android:paddingStart="50.0dip"
+    android:paddingEnd="50.0dip"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30.0dip"
+        android:text="@string/rabu"
+        android:textColor="@color/dark"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15.0dip"
+        android:text="@string/rabu1"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rabu1x"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15.0dip"
+        android:text="@string/rabu2"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rabu2x"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15.0dip"
+        android:text="@string/rabu3"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rabu3x"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
+</LinearLayout>

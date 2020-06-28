@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/dark"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="@string/stayathome"
+        android:textColor="@color/light"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:id="@+id/ftik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        android:textColor="@color/light"
+        android:text="@string/ftikusm2018"
+        android:layout_below="@id/status"/>
+
+    <LinearLayout
+        android:id="@+id/slide_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@drawable/round_light"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/seemore"
+            android:textColor="@color/dark"
+            android:layout_marginEnd="8dp"
+            style="@style/TextAppearance.AppCompat.Body1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_up"
+            android:tint="@color/dark"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

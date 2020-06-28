@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_schedules"
+        android:icon="@drawable/ic_book"
+        android:title="@string/schedules"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_textColor="@color/dark"
+        app:cnb_iconColor="@color/dark"/>
+
+    <item
+        android:id="@+id/item_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_textColor="@color/dark"
+        app:cnb_iconColor="@color/dark"/>
+
+    <item
+        android:id="@+id/item_calendar"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/calendar"
+        app:cnb_backgroundColor="@color/light"
+        app:cnb_textColor="@color/dark"
+        app:cnb_iconColor="@color/dark"/>
+
+</menu>

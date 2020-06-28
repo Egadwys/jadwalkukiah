@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">Jadwal Kuliah</string>
+
+    <string name="home">Home</string>
+    <string name="schedules">Schedules</string>
+    <string name="calendar">Calendar</string>
+    <string name="ftikusm2018">FTIK USM 2018</string>
+    <string name="egadwys">Egadwys</string>
+    <string name="stayathome">Stay At Home</string>
+    <string name="seemore">See More</string>
+
+    <string name="senin">SENIN</string>
+    <string name="senin1">PENGOLAHAN CITRA</string>
+    <string name="senin1x">17.00 - Praktek - Q.2.2</string>
+    <string name="senin2">PEMROGRAMAN WEB</string>
+    <string name="senin2x">18.20 - Teori - G.3.6</string>
+    <string name="senin3">OPEN SOURCE SYSTEM</string>
+    <string name="senin3x">19.40 - Teori - G.3.1</string>
+    <string name="senincopy">"SENIN\n\nPENGOLAHAN CITRA\n17.00 - Praktek - Q.2.2\nPEMROGRAMAN WEB\n18.20 - Teori - G.3.6\nOPEN SOURCE SYSTEM\n19.40 - Teori - G.3.1"</string>
+
+    <string name="selasa">SELASA</string>
+    <string name="selasa1">MATEMATIKA DISKRIT</string>
+    <string name="selasa1x">17.00 - Teori - G.3.5</string>
+    <string name="selasa2">KOSONG</string>
+    <string name="selasa2x">-</string>
+    <string name="selasa3">PEMROGRAMAN BERORIENTASI OBJEK</string>
+    <string name="selasa3x">19.40 - Teori - Q.1.2</string>
+    <string name="selasacopy">"SELASA\n\nMATEMATIKA DISKRIT\n17.00 - Teori - G.3.5\nPEMROGRAMAN BERORIENTASI OBJEK\n19.40 - Teori - Q.1.2"</string>
+
+    <string name="rabu">RABU</string>
+    <string name="rabu1">PENGOLAHAN CITRA</string>
+    <string name="rabu1x">17.00 - Teori - M.3.3</string>
+    <string name="rabu2">DATA MINING</string>
+    <string name="rabu2x">18.20 - Teori - M.3.3</string>
+    <string name="rabu3">OPEN SOURCE SYSTEM</string>
+    <string name="rabu3x">19.40 - Praktek - Q.2.3</string>
+    <string name="rabucopy">"RABU\n\nPENGOLAHAN CITRA\n17.00 - Teori - M.3.3\nDATA MINING\n18.20 - Teori - M.3.3\nOPEN SOURCE SYSTEM\n19.40 - Praktek - Q.2.3"</string>
+
+    <string name="kamis">KAMIS</string>
+    <string name="kamis1">KOSONG</string>
+    <string name="kamis1x">-</string>
+    <string name="kamis2">PEMROGRAMAN BERORIENTASI OBJEK</string>
+    <string name="kamis2x">18.20 - Praktek - Q.2.3</string>
+    <string name="kamis3">MIKRO PROSESOR</string>
+    <string name="kamis3x">19.40 - Teori - Q.1.1</string>
+    <string name="kamiscopy">"KAMIS\n\nPEMROGRAMAN BERORIENTASI OBJEK\n18.20 - Praktek - Q.2.3\nMIKRO PROSESOR\n19.40 - Teori - Q.1.1"</string>
+
+    <string name="jumat">JUMAT</string>
+    <string name="jumat1">DATA MINING</string>
+    <string name="jumat1x">17.00 - Praktek - Q.2.3</string>
+    <string name="jumat2">METODOLOGI PENELITIAN</string>
+    <string name="jumat2x">18.20 - Teori - M.3.1</string>
+    <string name="jumat3">KOSONG</string>
+    <string name="jumat3x">-</string>
+    <string name="jumatcopy">"JUMAT\n\nDATA MINING\n17.00 - Praktek - Q.2.3\nMETODOLOGI PENELITIAN\n18.20 - Teori - M.3.1"</string>
+
+    <string name="sabtu">SABTU</string>
+    <string name="sabtu1">MIKRO PROSESOR</string>
+    <string name="sabtu1x">17.00 - Praktek - M1.2.1</string>
+    <string name="sabtu2">KOSONG</string>
+    <string name="sabtu2x">-</string>
+    <string name="sabtu3">KOSONG</string>
+    <string name="sabtu3x">-</string>
+    <string name="sabtucopy">"SABTU\n\nMIKRO PROSESOR\n17.00 - Praktek - M1.2.1"</string>
+
+    <string name="minggu">MINGGU</string>
+    <string name="minggu1">PEMROGRAMAN WEB</string>
+    <string name="minggu1x">14.00 - Praktek - M.2.2</string>
+    <string name="minggu2">KOSONG</string>
+    <string name="minggu2x">-</string>
+    <string name="minggu3">KOSONG</string>
+    <string name="minggu3x">-</string>
+    <string name="minggucopy">"MINGGU\n\nPEMROGRAMAN WEB\n14.00 - Praktek - M.2.2"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
